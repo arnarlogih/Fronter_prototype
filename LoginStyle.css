@@ -1,0 +1,75 @@
+body {
+    background-color: steelblue;
+}
+
+
+h1, p, label, span {
+    font-family: Helvetica Neue;
+}
+
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+
+button {
+  background-color: green;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 80%;
+opacity: 0.7;
+}
+
+button:hover {
+  opacity: 1;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: darkred;
+color: white;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width: 300px;
+
+}
+
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+  }
+}
+
+footer{
+    float: right;
+}
