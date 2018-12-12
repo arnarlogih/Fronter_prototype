@@ -20,17 +20,20 @@ font-size: 1.5em;
   box-sizing: border-box;
 }
 
-
-button {
-  background-color: white;
+.loginBtn{
+    background-color: white;
+    font-family: helvetica;
+    float: inherit;
   color: black;
 font-size: 1.5em;
   padding: 10px 15px;
   margin: 8px 0;
   border: none;
   cursor: pointer;
-  width: 50%;
+
 }
+
+
 
 button:hover {
   opacity: 1;
