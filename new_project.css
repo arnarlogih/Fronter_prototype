@@ -1,0 +1,80 @@
+.avatar {
+    width: 150px;
+    height: 100%;
+}
+
+header {
+    background-color: white;
+}
+
+.blue {
+    float: right;
+
+    width: 40px;
+    height: 100%;
+}
+
+.bell {
+    float: right;
+    width: 40px;
+    height: 100%;
+}
+
+.chat {
+    float: right;
+    width: 40px;
+    height: 45px;
+}
+
+h2{
+    font-family: helvetica;
+    text-align: center;
+    color: white;
+    padding: 2em;
+    background-color: #0E152A;
+}
+
+.column1 {
+background-color: #122746;
+    color: white;
+  width: 100%;
+  padding: 0px;
+  height: 300px;
+}
+
+.column1:hover{
+    background-color: #233858;
+}
+
+
+.column2 {
+background-color: #0C2244;
+    color: white;
+  width: 100%;
+  padding: 50px;
+  height: 300px;
+}
+
+.column2:hover{
+    background-color: #233858;
+}
+
+.icon {
+    width: 130px;
+    height: 150px;
+}
+
+.icon2 {
+    width: 130px;
+    height: 120px;
+}
+
+button {
+    font-size: 2em;
+}
+
+
+
+button, a {
+    font-family: helvetica;
+}

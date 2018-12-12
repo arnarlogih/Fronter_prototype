@@ -1,5 +1,5 @@
 body {
-    background-color: steelblue;
+    background-color: #EA4D44;
 }
 
 
@@ -9,6 +9,9 @@ h1, p, label, span {
 
 
 input[type=text], input[type=password] {
+    background-color: white;
+    opacity: 0.3;
+font-size: 1.5em;
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -19,14 +22,14 @@ input[type=text], input[type=password] {
 
 
 button {
-  background-color: green;
+  background-color: white;
   color: black;
-  padding: 14px 20px;
+font-size: 1.5em;
+  padding: 10px 15px;
   margin: 8px 0;
   border: none;
   cursor: pointer;
-  width: 80%;
-opacity: 0.7;
+  width: 50%;
 }
 
 button:hover {
@@ -65,9 +68,16 @@ span.psw {
     display: block;
     float: none;
   }
-  .cancelbtn {
-    width: 100%;
-  }
+}
+.psw{
+    position: absolute;
+    text-align: center;
+    color: white;
+    }
+a{
+    text-decoration: none;
+    color: white;
+
 }
 
 footer{
