@@ -1,0 +1,44 @@
+.avatar {
+    width: 150px;
+    height: 100%;
+}
+
+.responsive{
+   width: 100%;
+  height: auto;
+
+}
+
+header {
+    background-color: white;
+}
+
+.blue {
+    float: right;
+    width: 40px;
+    height: 100%;
+}
+
+.bell {
+    float: right;
+    width: 40px;
+    height: 100%;
+}
+
+.chat {
+    float: right;
+    width: 40px;
+    height: 45px;
+}
+
+h2{
+    font-family: helvetica;
+    text-align: center;
+    color: white;
+    padding: 2em;
+    background-color: #0E152A;
+}
+
+.Google {
+
+}
