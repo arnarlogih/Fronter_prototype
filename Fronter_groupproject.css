@@ -35,8 +35,9 @@ h2{
     font-family: helvetica;
     text-align: center;
     color: white;
-    padding: 2em;
-    background-color: #0E152A;
+    padding: 1em;
+    border-radius: 20px;
+    background-color: #ea5045;
 }
 
 .Google {

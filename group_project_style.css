@@ -61,7 +61,7 @@ font-size: 2em;
 }
 
 .button2 {
-  background-color: #EA4D44;
+  background-color: #ea5045;
   color: white;
     font-size: 1em;
   padding: 10px 10px;
@@ -70,7 +70,7 @@ font-size: 2em;
   cursor: pointer;
   width: 25%;
     float: right;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 .button2:hover {
