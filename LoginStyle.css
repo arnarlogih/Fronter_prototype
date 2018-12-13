@@ -1,5 +1,5 @@
 body {
-    background-color: #ea5045;
+    background-color: #59cbe8 ;
 }
 
 
@@ -30,13 +30,13 @@ font-size: 1.5em;
   margin: 8px 0;
   border: none;
   cursor: pointer;
+    opacity: 0.8;
+    border-radius: 10px;
 
 }
 
-
-
-button:hover {
-  opacity: 1;
+.loginBtn:hover {
+  opacity: 10;
 }
 
 .cancelbtn {

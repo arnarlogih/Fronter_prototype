@@ -1,5 +1,5 @@
 .avatar {
-    width: 120px;
+    width: 150px;
     height: 100%;
 }
 
@@ -47,7 +47,7 @@ input[type=text], input[type=password] {
 }
 
 .button1 {
-  background-color: #0C2244;
+  background-color: #363636;
   color: white;
 font-size: 2em;
   padding: 13px 20px;
@@ -55,13 +55,15 @@ font-size: 2em;
   border: none;
   cursor: pointer;
   width: 100%;
+    border-radius: 10px;
+
 }
 .button1:hover {
-  opacity: 10;
+  background-color: #59cbe8 ;
 }
 
 .button2 {
-  background-color: #ea5045;
+  background-color: #1E2C40;
   color: white;
     font-size: 1em;
   padding: 10px 10px;
@@ -70,11 +72,11 @@ font-size: 2em;
   cursor: pointer;
   width: 25%;
     float: right;
-    opacity: 0.9;
+    border-radius: 10px;
 }
 
 .button2:hover {
-  opacity: 10;
+  background-color: #59cbe8;
 }
 
 a{
