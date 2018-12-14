@@ -3,7 +3,7 @@
     height: 100%;
 }
 
-body{
+body {
     background-color: white;
 }
 
@@ -17,7 +17,7 @@ header {
     height: 100%;
 }
 
-.studentbox{
+.studentbox {
     font-family: helvetica;
     font-size: 1.5em;
     color: black;
@@ -35,7 +35,7 @@ header {
     height: 45px;
 }
 
-h2{
+h2 {
     font-family: helvetica;
     text-align: center;
     color: white;
@@ -44,21 +44,26 @@ h2{
     border-radius: 10px;
 }
 
+ul {
+    list-style: none;
+}
+
 .login {
     font-family: helvetica;
-      background-color: #1E2C40;
+    background-color: #1E2C40;
     float: right;
-     color: white;
+    color: white;
     font-size: 1.5em;
-  padding: 5px 2px;
-  margin: 4px 0;
-  cursor: pointer;
-  width: 50%;
+    padding: 5px 2px;
+    margin: 4px 0;
+    cursor: pointer;
+    width: 50%;
     text-align: center;
     text-decoration: none;
     border-radius: 10px;
 }
-.login:hover{
+
+.login:hover {
     background-color: #59cbe8;
 }
 

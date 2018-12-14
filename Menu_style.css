@@ -15,7 +15,6 @@ header {
     width: 40px;
     height: 100%;
 
-
 }
 
 .bell {
@@ -31,11 +30,11 @@ header {
 }
 
 .row {
-  display: flex;
+    display: flex;
 }
 
 .column1 {
-    background-color:#1E2C40;
+    background-color: #1E2C40;
     color: white;
     float: left;
     width: 50%;
@@ -45,31 +44,22 @@ header {
 
 }
 
-.column1:hover{
+.column1:hover {
     background-color: #59cbe8;
 }
 
-.newproject{
-    background-color: #DCDBDC;
-    color: white;
-  float: ;
-  width: 50%;
-  padding: 0px;
-  height: 200px;
-}
-
 .column2 {
-background-color: #363636;
+    background-color: #363636;
     color: white;
-  float: left;
-  width: 50%;
-  padding: 50px;
-  height: 200px;
+    float: left;
+    width: 50%;
+    padding: 50px;
+    height: 200px;
     border: none;
 
 }
 
-.column2:hover{
+.column2:hover {
     background-color: #59cbe8;
 }
 
@@ -81,10 +71,6 @@ background-color: #363636;
 .plusicon {
     width: 90px;
     height: 90px;
-}
-
-.newproject{
-    text-align: center;
 }
 
 .mmd {
@@ -108,4 +94,3 @@ a {
     text-decoration: none;
     color: white;
 }
-
